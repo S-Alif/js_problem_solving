@@ -59,21 +59,21 @@ function calculateBmi(height, weight){
 // main BMI function
 function bmi(){
     // get height and weight and weight value
-    let weight = parseFloat(document.getElementById("weightInput").value);
-    let height = parseFloat(document.getElementById("heightInput").value);
+    let weight = document.getElementById("weightInput").value;
+    let height = document.getElementById("heightInput").value;
 
-    if(height == null || weight == null){
+    if(height === '' || weight === ''){
         alert("Please enter all the data");
     }else{
         // get the calculated result
-        let result = calculateBmi(height, weight);
+        let result = calculateBmi(parseFloat(height), parseFloat(weight));
 
         let showResult = document.getElementById("result");
         document.getElementById("bmi-container").classList.add("show");
 
         // printing height and weight
-        document.getElementById("height").innerHTML = "<b>Your Height :</b> "+height+"m";
-        document.getElementById("weight").innerHTML = "<b>Your weight :</b> "+weight+"Kg";
+        document.getElementById("height").innerHTML = "<b>Your Height :</b> "+parseFloat(height)+"m";
+        document.getElementById("weight").innerHTML = "<b>Your weight :</b> "+parseFloat(weight)+"Kg";
         document.getElementById("yourBmi").innerHTML = "<b>Your BMI :</b> "+result.toFixed(2);
 
         // check the result and show appropriate message
