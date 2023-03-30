@@ -63,7 +63,10 @@ function bmi(){
     let height = document.getElementById("heightInput").value;
 
     if(height === '' || weight === ''){
-        alert("Please enter all the data");
+        document.getElementById("alert").classList.add("open");
+        setTimeout(() => {
+            document.getElementById("alert").classList.remove("open");
+        }, 3200);
     }else{
         // get the calculated result
         let result = calculateBmi(parseFloat(height), parseFloat(weight));
@@ -100,3 +103,14 @@ function bmi(){
         }
     }
 }
+
+// moving background image
+window.addEventListener('mousemove', function(e){
+    var bg = document.getElementById("main-container");
+
+    bgX = e.clientX;
+    bgY = e.clientY;
+
+    bg.style.backgroundPositionX = (bgX * 0.02) + '%';
+    bg.style.backgroundPositionY = (bgY * 0.02) + '%';
+})
