@@ -18,7 +18,7 @@ function showBmi(){
     bmiTitle.innerHTML = "bmi result";
     bmiContent.appendChild(bmiTitle);
 
-    // create 'p' tags tp show height and weight
+    // create 'p' tags to show height and weight
     let bmiHeight = document.createElement("p");
     bmiHeight.id = "height";
     let bmiweight = document.createElement("p");
