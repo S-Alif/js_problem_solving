@@ -1,0 +1,5 @@
+github link :
+https://github.com/S-Alif/Simple-Javascript-Projects/tree/main/digital-clock
+
+live demo:
+https://digital-js-clock.netlify.app/
