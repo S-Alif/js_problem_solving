@@ -1,2 +1,2 @@
 The live demo link :
-https://calcthebmi.netlify.app/
+https://simple-js-project.netlify.app/projects/bmi-calculator/
