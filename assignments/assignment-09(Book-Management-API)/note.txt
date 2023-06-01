@@ -1,0 +1,4 @@
+run the server from "server.js"
+
+-index.js : contains the routes
+-books.js : contains all the functions
