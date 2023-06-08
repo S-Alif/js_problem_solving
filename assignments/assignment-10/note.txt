@@ -1,0 +1,14 @@
+## Run the project with "npm start"
+    --port : 3000
+
+## main directory
+    --server.js : runs the server and starts the database
+    --index.js : contains all the routes and exports app
+
+## src directory
+    --contollers/
+        --procuct-contoller.js : inserts procuct data / retrieve all data
+    --models/
+        --product-model.js : mongoose model and schema
+    --tokenManager/
+        --tokenManager.js : generates token/ signs user/ authenticate user before getting the products
