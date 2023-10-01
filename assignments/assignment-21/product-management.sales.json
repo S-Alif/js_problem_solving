@@ -1,0 +1,703 @@
+[{
+  "_id": {
+    "$oid": "64fc424c98da0cb3746bf803"
+  },
+  "product": "white shirt",
+  "quantity": 500,
+  "price": 50,
+  "date": {
+    "$date": "2022-06-29T00:00:00.000Z"
+  },
+  "dept": "cloth",
+  "soldAt": 55,
+  "createdAt": {
+    "$date": "2023-09-09T10:00:44.410Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:00:44.410Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc425d98da0cb3746bf805"
+  },
+  "product": "white shirt",
+  "quantity": 200,
+  "price": 50,
+  "date": {
+    "$date": "2022-05-22T00:00:00.000Z"
+  },
+  "dept": "cloth",
+  "soldAt": 56,
+  "createdAt": {
+    "$date": "2023-09-09T10:01:01.628Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:01:01.628Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc427098da0cb3746bf807"
+  },
+  "product": "white shirt",
+  "quantity": 223,
+  "price": 50,
+  "date": {
+    "$date": "2023-05-01T00:00:00.000Z"
+  },
+  "dept": "cloth",
+  "soldAt": 57,
+  "createdAt": {
+    "$date": "2023-09-09T10:01:20.476Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:01:20.476Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc427a98da0cb3746bf809"
+  },
+  "product": "white shirt",
+  "quantity": 123,
+  "price": 50,
+  "date": {
+    "$date": "2023-06-03T00:00:00.000Z"
+  },
+  "dept": "cloth",
+  "soldAt": 55,
+  "createdAt": {
+    "$date": "2023-09-09T10:01:30.616Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:01:30.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc428b98da0cb3746bf80b"
+  },
+  "product": "red shirt",
+  "quantity": 220,
+  "price": 50,
+  "date": {
+    "$date": "2023-06-04T00:00:00.000Z"
+  },
+  "dept": "cloth",
+  "soldAt": 58,
+  "createdAt": {
+    "$date": "2023-09-09T10:01:47.217Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:01:47.217Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc429a98da0cb3746bf80d"
+  },
+  "product": "red shirt",
+  "quantity": 210,
+  "price": 50,
+  "date": {
+    "$date": "2023-05-03T00:00:00.000Z"
+  },
+  "dept": "cloth",
+  "soldAt": 55,
+  "createdAt": {
+    "$date": "2023-09-09T10:02:02.508Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:02:02.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc42a698da0cb3746bf80f"
+  },
+  "product": "red shirt",
+  "quantity": 110,
+  "price": 50,
+  "date": {
+    "$date": "2023-06-20T00:00:00.000Z"
+  },
+  "dept": "cloth",
+  "soldAt": 56,
+  "createdAt": {
+    "$date": "2023-09-09T10:02:14.306Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:02:14.306Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc42b298da0cb3746bf811"
+  },
+  "product": "red shirt",
+  "quantity": 200,
+  "price": 50,
+  "date": {
+    "$date": "2022-06-19T00:00:00.000Z"
+  },
+  "dept": "cloth",
+  "soldAt": 55,
+  "createdAt": {
+    "$date": "2023-09-09T10:02:26.950Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:02:26.950Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc42e998da0cb3746bf813"
+  },
+  "product": "iphone-12",
+  "quantity": 10,
+  "price": 1900,
+  "date": {
+    "$date": "2022-06-19T00:00:00.000Z"
+  },
+  "dept": "phone",
+  "soldAt": 2100,
+  "createdAt": {
+    "$date": "2023-09-09T10:03:21.359Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:03:21.359Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc42f598da0cb3746bf815"
+  },
+  "product": "iphone-12",
+  "quantity": 5,
+  "price": 1900,
+  "date": {
+    "$date": "2022-05-20T00:00:00.000Z"
+  },
+  "dept": "phone",
+  "soldAt": 2000,
+  "createdAt": {
+    "$date": "2023-09-09T10:03:33.002Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:03:33.002Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc430a98da0cb3746bf817"
+  },
+  "product": "iphone-12",
+  "quantity": 7,
+  "price": 1900,
+  "date": {
+    "$date": "2022-05-23T00:00:00.000Z"
+  },
+  "dept": "phone",
+  "soldAt": 2200,
+  "createdAt": {
+    "$date": "2023-09-09T10:03:54.617Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:03:54.617Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc431a98da0cb3746bf819"
+  },
+  "product": "iphone-12",
+  "quantity": 11,
+  "price": 1900,
+  "date": {
+    "$date": "2022-06-02T00:00:00.000Z"
+  },
+  "dept": "phone",
+  "soldAt": 2000,
+  "createdAt": {
+    "$date": "2023-09-09T10:04:10.968Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:04:10.968Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc432598da0cb3746bf81b"
+  },
+  "product": "iphone-12",
+  "quantity": 8,
+  "price": 1900,
+  "date": {
+    "$date": "2023-06-10T00:00:00.000Z"
+  },
+  "dept": "phone",
+  "soldAt": 2000,
+  "createdAt": {
+    "$date": "2023-09-09T10:04:21.743Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:04:21.743Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc433098da0cb3746bf81d"
+  },
+  "product": "iphone-12",
+  "quantity": 15,
+  "price": 1900,
+  "date": {
+    "$date": "2023-05-09T00:00:00.000Z"
+  },
+  "dept": "phone",
+  "soldAt": 2000,
+  "createdAt": {
+    "$date": "2023-09-09T10:04:32.853Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:04:32.853Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc43bd98da0cb3746bf81f"
+  },
+  "product": "samsung s-22",
+  "quantity": 15,
+  "price": 1300,
+  "date": {
+    "$date": "2023-05-22T00:00:00.000Z"
+  },
+  "dept": "phone",
+  "soldAt": 1560,
+  "createdAt": {
+    "$date": "2023-09-09T10:06:53.474Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:06:53.474Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc43c298da0cb3746bf821"
+  },
+  "product": "samsung s-22",
+  "quantity": 15,
+  "price": 1300,
+  "date": {
+    "$date": "2023-05-12T00:00:00.000Z"
+  },
+  "dept": "phone",
+  "soldAt": 1600,
+  "createdAt": {
+    "$date": "2023-09-09T10:06:58.953Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:06:58.953Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc43c898da0cb3746bf823"
+  },
+  "product": "samsung s-22",
+  "quantity": 10,
+  "price": 1300,
+  "date": {
+    "$date": "2023-06-12T00:00:00.000Z"
+  },
+  "dept": "phone",
+  "soldAt": 1500,
+  "createdAt": {
+    "$date": "2023-09-09T10:07:04.641Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:07:04.641Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc43d198da0cb3746bf825"
+  },
+  "product": "samsung s-22",
+  "quantity": 21,
+  "price": 1300,
+  "date": {
+    "$date": "2023-06-26T00:00:00.000Z"
+  },
+  "dept": "phone",
+  "soldAt": 1700,
+  "createdAt": {
+    "$date": "2023-09-09T10:07:13.677Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:07:13.677Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc43db98da0cb3746bf827"
+  },
+  "product": "samsung s-22",
+  "quantity": 18,
+  "price": 1300,
+  "date": {
+    "$date": "2022-06-26T00:00:00.000Z"
+  },
+  "dept": "phone",
+  "soldAt": 1500,
+  "createdAt": {
+    "$date": "2023-09-09T10:07:23.177Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:07:23.177Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc43e698da0cb3746bf829"
+  },
+  "product": "samsung s-22",
+  "quantity": 19,
+  "price": 1300,
+  "date": {
+    "$date": "2022-05-22T00:00:00.000Z"
+  },
+  "dept": "phone",
+  "soldAt": 1500,
+  "createdAt": {
+    "$date": "2023-09-09T10:07:34.744Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:07:34.744Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc443b98da0cb3746bf82b"
+  },
+  "product": "rice",
+  "quantity": 700,
+  "price": 5,
+  "date": {
+    "$date": "2022-05-21T00:00:00.000Z"
+  },
+  "dept": "food",
+  "soldAt": 7,
+  "createdAt": {
+    "$date": "2023-09-09T10:08:59.712Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:08:59.712Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc444798da0cb3746bf82d"
+  },
+  "product": "rice",
+  "quantity": 800,
+  "price": 5,
+  "date": {
+    "$date": "2022-05-06T00:00:00.000Z"
+  },
+  "dept": "food",
+  "soldAt": 7,
+  "createdAt": {
+    "$date": "2023-09-09T10:09:11.699Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:09:11.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc445798da0cb3746bf82f"
+  },
+  "product": "rice",
+  "quantity": 500,
+  "price": 5,
+  "date": {
+    "$date": "2022-06-06T00:00:00.000Z"
+  },
+  "dept": "food",
+  "soldAt": 7,
+  "createdAt": {
+    "$date": "2023-09-09T10:09:27.837Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:09:27.837Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc445e98da0cb3746bf831"
+  },
+  "product": "rice",
+  "quantity": 50,
+  "price": 5,
+  "date": {
+    "$date": "2022-06-21T00:00:00.000Z"
+  },
+  "dept": "food",
+  "soldAt": 9,
+  "createdAt": {
+    "$date": "2023-09-09T10:09:34.442Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:09:34.442Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc446698da0cb3746bf833"
+  },
+  "product": "rice",
+  "quantity": 40,
+  "price": 5,
+  "date": {
+    "$date": "2023-06-21T00:00:00.000Z"
+  },
+  "dept": "food",
+  "soldAt": 7,
+  "createdAt": {
+    "$date": "2023-09-09T10:09:42.860Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:09:42.860Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc447898da0cb3746bf835"
+  },
+  "product": "rice",
+  "quantity": 400,
+  "price": 5,
+  "date": {
+    "$date": "2023-05-03T00:00:00.000Z"
+  },
+  "dept": "food",
+  "soldAt": 7,
+  "createdAt": {
+    "$date": "2023-09-09T10:10:00.461Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:10:00.461Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc448098da0cb3746bf837"
+  },
+  "product": "rice",
+  "quantity": 810,
+  "price": 5,
+  "date": {
+    "$date": "2023-05-07T00:00:00.000Z"
+  },
+  "dept": "food",
+  "soldAt": 8,
+  "createdAt": {
+    "$date": "2023-09-09T10:10:08.426Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:10:08.426Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc44a298da0cb3746bf839"
+  },
+  "product": "chicken",
+  "quantity": 150,
+  "price": 10,
+  "date": {
+    "$date": "2023-05-07T00:00:00.000Z"
+  },
+  "dept": "food",
+  "soldAt": 16,
+  "createdAt": {
+    "$date": "2023-09-09T10:10:42.985Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:10:42.985Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc44ab98da0cb3746bf83b"
+  },
+  "product": "chicken",
+  "quantity": 170,
+  "price": 10,
+  "date": {
+    "$date": "2023-05-13T00:00:00.000Z"
+  },
+  "dept": "food",
+  "soldAt": 13,
+  "createdAt": {
+    "$date": "2023-09-09T10:10:51.695Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:10:51.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc44c098da0cb3746bf83d"
+  },
+  "product": "chicken",
+  "quantity": 120,
+  "price": 10,
+  "date": {
+    "$date": "2023-05-18T00:00:00.000Z"
+  },
+  "dept": "food",
+  "soldAt": 13,
+  "createdAt": {
+    "$date": "2023-09-09T10:11:12.277Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:11:12.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc44c898da0cb3746bf83f"
+  },
+  "product": "chicken",
+  "quantity": 125,
+  "price": 10,
+  "date": {
+    "$date": "2023-06-18T00:00:00.000Z"
+  },
+  "dept": "food",
+  "soldAt": 15,
+  "createdAt": {
+    "$date": "2023-09-09T10:11:20.435Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:11:20.435Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc44d598da0cb3746bf841"
+  },
+  "product": "chicken",
+  "quantity": 57,
+  "price": 10,
+  "date": {
+    "$date": "2023-06-25T00:00:00.000Z"
+  },
+  "dept": "food",
+  "soldAt": 13,
+  "createdAt": {
+    "$date": "2023-09-09T10:11:33.225Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:11:33.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc451098da0cb3746bf843"
+  },
+  "product": "chicken",
+  "quantity": 70,
+  "price": 10,
+  "date": {
+    "$date": "2022-06-25T00:00:00.000Z"
+  },
+  "dept": "food",
+  "soldAt": 13,
+  "createdAt": {
+    "$date": "2023-09-09T10:12:32.456Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:12:32.456Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc451898da0cb3746bf845"
+  },
+  "product": "chicken",
+  "quantity": 170,
+  "price": 10,
+  "date": {
+    "$date": "2022-06-11T00:00:00.000Z"
+  },
+  "dept": "food",
+  "soldAt": 14,
+  "createdAt": {
+    "$date": "2023-09-09T10:12:40.844Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:12:40.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc452098da0cb3746bf847"
+  },
+  "product": "chicken",
+  "quantity": 180,
+  "price": 10,
+  "date": {
+    "$date": "2022-05-11T00:00:00.000Z"
+  },
+  "dept": "food",
+  "soldAt": 13,
+  "createdAt": {
+    "$date": "2023-09-09T10:12:48.593Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:12:48.593Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc452e98da0cb3746bf849"
+  },
+  "product": "chicken",
+  "quantity": 200,
+  "price": 10,
+  "date": {
+    "$date": "2022-05-05T00:00:00.000Z"
+  },
+  "dept": "food",
+  "soldAt": 13,
+  "createdAt": {
+    "$date": "2023-09-09T10:13:02.793Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T10:13:02.793Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fc7de7db29a603a60ff3ad"
+  },
+  "product": "chicken",
+  "quantity": 200,
+  "price": 10,
+  "date": {
+    "$date": "2022-05-05T00:00:00.000Z"
+  },
+  "dept": "food",
+  "soldAt": 13,
+  "createdAt": {
+    "$date": "2023-09-09T14:15:03.789Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-09T14:15:03.789Z"
+  }
+}]
